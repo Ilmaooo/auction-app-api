@@ -1,0 +1,22 @@
+{
+  "name": "auction-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "prettier": "prettier --write .",
+    "prettier:check": "prettier --check ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "prettier": "^3.2.5"
+  }
+}
